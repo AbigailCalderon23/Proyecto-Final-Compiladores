@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4081400b.chunk.css",
+    "main.js": "/static/js/main.42bfc049.chunk.js",
+    "main.js.map": "/static/js/main.42bfc049.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f83b0d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f83b0d2.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.b04c25e3.chunk.js": "/static/js/2.b04c25e3.chunk.js",
+    "static/js/2.b04c25e3.chunk.js.map": "/static/js/2.b04c25e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.4081400b.chunk.css.map": "/static/css/main.4081400b.chunk.css.map",
+    "static/js/2.b04c25e3.chunk.js.LICENSE.txt": "/static/js/2.b04c25e3.chunk.js.LICENSE.txt",
+    "static/media/borrar.7e2a977d.svg": "/static/media/borrar.7e2a977d.svg",
+    "static/media/cat_comida.f0ce46ae.svg": "/static/media/cat_comida.f0ce46ae.svg",
+    "static/media/cat_compras.39b53074.svg": "/static/media/cat_compras.39b53074.svg",
+    "static/media/cat_cuentas-y-pagos.b2c196bc.svg": "/static/media/cat_cuentas-y-pagos.b2c196bc.svg",
+    "static/media/cat_diversion.23473adb.svg": "/static/media/cat_diversion.23473adb.svg",
+    "static/media/cat_hogar.2fde21eb.svg": "/static/media/cat_hogar.2fde21eb.svg",
+    "static/media/cat_ropa.9efafd0a.svg": "/static/media/cat_ropa.9efafd0a.svg",
+    "static/media/cat_salud-e-higiene.9f70187c.svg": "/static/media/cat_salud-e-higiene.9f70187c.svg",
+    "static/media/cat_transporte.a18d93ac.svg": "/static/media/cat_transporte.a18d93ac.svg",
+    "static/media/down.10bebdef.svg": "/static/media/down.10bebdef.svg",
+    "static/media/editar.7ccbadc4.svg": "/static/media/editar.7ccbadc4.svg",
+    "static/media/flecha.8f8de552.svg": "/static/media/flecha.8f8de552.svg",
+    "static/media/log-out.9fbf96f0.svg": "/static/media/log-out.9fbf96f0.svg",
+    "static/media/login.cf55a318.svg": "/static/media/login.cf55a318.svg",
+    "static/media/logo.cad1b274.png": "/static/media/logo.cad1b274.png",
+    "static/media/plus.18e46bbf.svg": "/static/media/plus.18e46bbf.svg",
+    "static/media/puntos.d72c308a.svg": "/static/media/puntos.d72c308a.svg",
+    "static/media/registro.f1b62ba1.svg": "/static/media/registro.f1b62ba1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f83b0d2.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.b04c25e3.chunk.js",
+    "static/css/main.4081400b.chunk.css",
+    "static/js/main.42bfc049.chunk.js"
+  ]
+}
